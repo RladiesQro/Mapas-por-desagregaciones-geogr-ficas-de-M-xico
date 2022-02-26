@@ -1,0 +1,91 @@
+LÉEME
+
+
+El Instituto Nacional de Estadística y Geografía (INEGI), responsable de brindar el servicio público de información estadística y geográfica, presenta el producto MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020, es un producto conformado por archivos digitales en formato SHAPE, cuyo corte corresponde al Cierre del Censo de Población y Vivienda 2020. Está integrado por 32 carpetas, cada una nombrada por la  clave geoestadística de la entidad y contiene un total nacional de  2 469 áreas geoestadísticas municipales, 45 397 polígonos de  localidades rurales amanzanadas,  4 911 polígonos de localidades urbanas, 295 779 puntos de localidades rurales amanzanadas y no amanzanadas, 350 polígonos de territorio insular, 17 469 áreas geoestadísticas básicas rurales, 63 982 áreas geoestadísticas básicas urbanas y 2 513 853  manzanas urbanas y rurales (incluyendo caserío disperso); la información presenta asociados como atributo, sus nombres y claves geoestadísticas.
+
+El Marco Geoestadístico es un sistema único y de carácter nacional diseñado por el INEGI, el cual presenta la división del país en diferentes niveles de desagregación, para referir geográficamente la información estadística institucional y de las unidades del estado que se integran al Sistema Nacional de Información Estadística y Geográfica (SNIEG).
+
+El producto MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020, es la representación vectorial en sus diferentes niveles de desagregación, con sus respectivas claves y nombres, lo que permite integrar un Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades en el periodo de octubre 2019 - marzo 2020, con la finalidad de que las autoridades, la academia y nuestra sociedad, conjuntamente con el INEGI, utilicen una información homogénea.
+
+Toda la información está referida en base a los parámetros: Cónica Conforme de Lambert (CCL) y Dátum ITRF2008. Cabe aclarar que la ubicación, forma y proporción de los elementos llevados a su expresión cartográfica es aproximada, debido a las fuentes y métodos de compilación.
+
+Los archivos vectoriales se encuentran disponibles en formato SHAPE (SHP), los cuales pueden ser incorporados en sistemas de información geográfica (SIG). 
+	
+Nota: Los formatos fueron generados y probados en el software ArcGis ver. 10.8.1, y se puede presentar hasta 1 metro de tolerancia en huecos y/o traslapes en el archivo vectorial, entre sus diversos elementos.  
+
+Para el mejor aprovechamiento de los datos, es importante que el software del usuario sea adecuado a las necesidades y a las especificaciones de equipo de cómputo que se deben cumplir, para la correcta visualización de la información.
+
+Por sus características, el producto MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020 puede ser utilizado por los sectores público, privado y académico, entre otros.
+
+Cabe señalar que el mencionado producto toma como base el archivo cartográfico digital inmediato anterior, que es el más actualizado (MARCO GEOESTADÍSTICO, SEPTIEMBRE 2019). Además, se complementa con el archivo de presentación léeme, y el archivo de contenido que detalla las características técnicas de la información; estos archivos se encuentran en formato pdf y txt. 
+
+Y en formatos pdf y csv, los catálogos de: 
+* entidades_federativas
+* municipios
+* localidades_urbanas_y_rurales_amanzanadas.
+* localidades_rurales_que_rebasan_su_ municipio
+* localidades_urbanas_que_rebasan_su_municipio 
+* localidades_rurales_que_rebasan_AGEB
+* localidades_islas (localidades que se ubican en un municipio y administrativamente pertenecen a otro municipio) 
+
+Los cuatro últimos detallan, de manera muy específica, situaciones especiales o de excepción que se presentan en algunas localidades.
+
+ESTRUCTURA DEL DISCO
+
+Los archivos se encuentran organizados por entidad federativa y por capa, con base en la siguiente organización:
+
+ee\capa
+Donde:
+ee corresponde a la clave numérica de la entidad federativa: 01, 02…32 (ver entidades federativas.pdf), 
+y la Capa indica con sufijos (ent, mun, etc.), el tipo de elemento contenido en cada archivo:
+
+eeentÁreas geoestadísticas estataleseemunÁreas geoestadísticas municipaleseearÁreas geoestadísticas básicas ruraleseel     Polígono de localidades urbanas y rurales amanzanadaseelpr Localidades puntuales ruraleseetiTerritorio insular eeaÁreas geoestadísticas básicas urbanaseemPolígonos de manzanaeefm Frentes de manzanaeeeEjes de vialidadeecdCaserío dispersoesiaServicios e información complementaria de tipo área
+(áreas verdes, camellones, glorietas)eesilServicios e información complementaria de tipo línea
+(ríos, ferrocarriles, caminos, brechas, veredas)eesip
+Servicios e información complementaria de tipo puntual 
+(palacios municipales o ayudantías, parques o jardines)eepe
+eepemPolígono externo
+Polígono externo de manzana
+Cabe aclarar que las capas con sufijo ti, cd, pe, pem, sia, sil, sip, se incluyen únicamente si la localidad cuenta con este tipo de información.
+
+Es importante resaltar que el polígono externo (pe) es un elemento nuevo que se define como el espacio geográfico que se caracteriza por contener caserío disperso, servicios y el amanzanamiento que conforman aquellas localidades rurales que cumplan con dichas características. 
+
+Además, es preciso mencionar que, para el caso de los croquis, estos no consideran en su estructura la capa de localidad (l), ya que es el polígono envolvente (pe) el que delimita su extensión territorial.
+
+El polígono externo de manzana (pem) es el espacio geográfico que se caracteriza por contener el caserío disperso en el ámbito urbano; este también es un nuevo elemento del Marco Geoestadístico. 
+
+Respecto a los Ejes de vialidad, éstos están conformados por segmentos de vialidad cuya dimensión es variable y generalmente representa un corte al frente de cada manzana o donde se presenta un cambio en el nombre, tipo y/o sentido de la vialidad.
+La clave de vialidad toma los valores de 00001 a 69999 y para rasgos colindantes del 70000 a 70100, por localidad.
+
+  	
+
+
+		        
+
+
+
+Porque proporcionamos información para todos...
+¡México cuenta con el INEGI!
+
+Queda prohibida la reproducción total o parcial de este producto con fines de lucro, por cualquier medio, ya sea impreso o electrónico.
+
+Consecuentemente, la persona física o moral que sin autorización fotocopie, grabe, almacene en algún sistema o transmita a medios electrónicos o magnéticos dicha información, quedará sujeta a las disposiciones legales.
+
+DR (C) 2013,	Instituto Nacional de Estadística y Geografía
+Edificio Sede
+Av. Héroe de Nacozari Sur No. 2301
+Fracc. Jardines del Parque, CP 20276
+Aguascalientes, Aguascalientes, México.
+
+
+www.inegi.org.mx
+atencion.usuarios@inegi.org.mx  
+
+Cualquier comentario, duda o aclaración respecto al producto, favor de dirigirse con:
+
+Claudio Martínez Topete
+Director General Adjunto de Información Geográfica para la Administración del Territorio
+claudio.martinez@inegi.org.mx 
+
+
+MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020.

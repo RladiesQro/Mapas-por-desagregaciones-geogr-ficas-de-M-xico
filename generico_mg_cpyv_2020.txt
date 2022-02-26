@@ -1,0 +1,30 @@
+Identifier:  
+
+Title: Marco geoestadístico, censo de población y vivienda 2020.
+
+Description: El Marco Geoestadístico (MG) es un producto que integra información vectorial, tablas de atributos y catálogos.
+Muestra la división geoestadística del territorio nacional en sucesivos niveles de desagregación. Esta división está dada por los llamados LÍMITES GEOESTADÍSTICOS, que pueden coincidir con los límites político-administrativos oficiales, los cuales tienen sustento legal; sin embargo, los que no cuentan con dicho sustento deben entenderse como límites provisionales, trazados sólo para realizar los operativos censales. Estos límites provisionales no tienen pretensión de oficialidad, dado que el Instituto Nacional de Estadística y Geografía no es el órgano facultado para definir límites político-administrativos.
+El Marco Geoestadístico contiene además la cobertura de todas las localidades del territorio nacional, de manera que a cada una de las viviendas le corresponde una secuencia de claves de identificación geográfica que está dada por los sucesivos niveles de desagregación en los que se divide el territorio nacional.
+
+Modified: 2021-01-15
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: Keyword: “AGEB Área Geoestadística Básica”, “AGEE Área Geoestadística Estatal”, “AGEM Área Geoestadística Municipal”, “Caserío Disperso”, “Ejes de Vialidad”, “Frentes de Manzana”, “Integración Territorial”, “Límite Geoestadístico”, “Límite Político Administrativo”, “Localidad Amanzanada”, “Localidad Rural Puntual”, “Manzana”, “Polígono Externo”, “Polígono Externo de Manzana”, “Servicio Tipo Área”, “Servicio Tipo Línea”, “Servicio Tipo Punto”.
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634.
+
+Temporal: 2019-10-01-2020-03-31
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: Irregular.
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=213
+

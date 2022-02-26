@@ -1,0 +1,13 @@
+"Bitácora de cambios de la versión MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020 y la versión MARCO GEOESTADÍSTICO, CENSO DE POBLACIÓN Y VIVIENDA 2020 INTEGRADO",,,,,
+Nombre de campo o archivo,Dato publicado,Dato nuevo,Estatus del dato,Fecha de modificación,Observaciones del cambio
+,,,,,
+,,,,,
+A AGEB ,CVE_AGEB,CVE_AGEB,Eliminado,11/02/2021,Se integra a la capa de  AGEB  las ageb urbanas y rurales para ser consistente con los requerimientos de esta versión
+AR AGEB Rural,CVE_AGEB,CVE_AGEB,Eliminado,11/02/2021,Se omite la capa de AGEB Rural para ser consistente con los requerimientos de esta versión
+Caserío Disperso,CVE_MZA,CVE_MZA,Eliminado,11/02/2021,Se omite la capa del Caserío Disperso para ser consistente con los requerimientos de esta versión
+E Ejes de vialidad ,CVEVIAL,CVEVIAL,Eliminado,11/02/2021,Se omite la capa de Ejes de Vialidad  para ser consistente con los requerimientos de esta versión
+FM Frentes de Manzana ,CVEFT,CVEFT,Eliminado,11/02/2021,Se omite la capa de Frentes de Manzana para ser consistente con los requerimientos de esta versión
+M Manzana,CVE_MZA,CVE_MZA,Eliminado,11/02/2021,Se omite la capa de Manzana para ser consistente con los requerimientos de esta versión
+SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIA,CVE_SERV,CVE_SERV,Eliminado,11/02/2021,Se omite la capa de SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIA para ser consistente con los requerimientos de esta versión
+SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIL,CVE_SERV,CVE_SERV,Eliminado,11/02/2021,Se omite la capa de SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIL para ser consistente con los requerimientos de esta versión
+SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIP,CVE_SERV,CVE_SERV,Eliminado,11/02/2021,Se omite la capa de SERVICIOS DE INFORMACIÓN COMPLEMENTARIA SIP para ser consistente con los requerimientos de esta versión

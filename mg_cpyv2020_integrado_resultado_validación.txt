@@ -1,0 +1,68 @@
+SECCIÓN 1. Identificación del conjunto de datos espaciales o producto:
+
+
+
+
+
+
+
+
+
+
+
+
+SECCIÓN 2. Fechas relacionadas con el conjunto de datos espaciales o productos:
+
+
+
+
+
+SECCIÓN 3. Unidad del estado responsable del conjunto de datos espaciales o productos:
+
+
+
+SECCIÓN 4. Localización geográfica del conjunto de datos espaciales o productos:
+
+
+
+
+
+
+SECCIÓN 5. Sistema de referencia:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECCIÓN 6. Calidad de la información:
+
+
+
+
+
+
+
+
+SECCIÓN 7. Entidades y atributos:
+
+
+
+SECCIÓN 8. Distribución:
+
+
+SECCIÓN 9. Información del cantacto para los metadatos:
+
+
+
+0 Omisiones
